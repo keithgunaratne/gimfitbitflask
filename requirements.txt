@@ -20,5 +20,5 @@ requests-oauthlib==1.2.0
 responses==0.5.1
 six==1.10.0
 SQLAlchemy==1.0.15
-Werkzeug==0.11.11
+Werkzeug==0.15.3
 WTForms==2.1
