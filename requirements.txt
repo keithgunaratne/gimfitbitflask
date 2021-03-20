@@ -9,7 +9,7 @@ Flask-SSLify==0.1.5
 Flask-WTF==0.12
 gunicorn==19.6.0
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 MarkupSafe==0.23
 oauthlib==3.0.2
 py==1.4.31
